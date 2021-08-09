@@ -35,7 +35,7 @@ O projeto foi desenvolvido por mim em equipe com outros 3 colegas.
 
 ## Como utilizar o projeto:
 
-* git clone https://github.com/NandaTMarques/Project-Starwars-planets-search.git;
+* git clone https://github.com/NandaTMarques/Project-Recipes-App.git;
 * Entre na pasta;
 * No terminal digite nem install;
 * npm start.
