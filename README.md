@@ -30,3 +30,12 @@ Nesse projeto, fui capaz de:
 
 Projeto desenvolvido como avaliação do módulo de front-end no curso da Trybe.
 O projeto foi desenvolvido por mim em equipe com outros 3 colegas.
+
+---
+
+## Como utilizar o projeto:
+
+* git clone https://github.com/NandaTMarques/Project-Starwars-planets-search.git;
+* Entre na pasta;
+* No terminal digite nem install;
+* npm start.
